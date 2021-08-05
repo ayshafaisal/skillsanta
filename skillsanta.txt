@@ -1,0 +1,23 @@
+1.var date=dateToday.getUTCMilliseconds();
+document.write(date);
+2.for(i=0;i<library.length;i++){
+document.write(library[i].author);
+document.write(library[i].title);
+document.write(library[i].readingStatus);
+}
+3.null value
+4.same value because the body is the same even though the name is different
+5.array new_arr contains all the elements of array arr after applying /2 operation with elements of arr.
+print method prints the current window.
+
+6.set.delete('Beethoven');
+7.var operatingSystems=[
+{
+Name:'Ubuntu',
+version:18.4,
+license:'open source'
+}
+];
+8.const detail=Object.assign(name.details);
+9.gimili.greet
+10.
